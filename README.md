@@ -18,7 +18,9 @@ This project provides a ready-to-use structure for building a full-stack blog wi
 
 ---
 
+
 ## 📁 Project Structure
+```
 src/
 ├── appwrite/ # Appwrite configuration & service helpers
 ├── assets/ # Images, icons, static assets
@@ -39,8 +41,7 @@ eslint.config.js
 index.html
 package.json
 package-lock.json
-
-
+```
 ---
 
 ## ⚙️ Tech Stack
@@ -52,5 +53,4 @@ package-lock.json
 | State Mgmt  | Redux  |
 | Styling     | CSS |
 | Deployment  | Vercel |
-
 ---
